@@ -1,0 +1,19 @@
+{
+  "name": "vitest-decorators",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "18.16.0",
+    "esbuild": "0.17.18",
+    "esbuild-decorators": "1.0.0",
+    "typescript": "5.0.4",
+    "vitest": "0.30.1"
+  }
+}
